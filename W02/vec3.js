@@ -61,7 +61,7 @@ Vec3.prototype.length = function()
 {
     return Math.sqrt( this.x * this.x + this.y * this.y + this.z * this.z );
 }
-
+/*
 Vec3.prototype.min() = function()
 {
     var min = this.x;
@@ -100,3 +100,4 @@ Vec3.prototype.mid() = function()
         else return this.z;
     }
 }
+*/
