@@ -100,4 +100,5 @@ Vec3.prototype.mid() = function()
         else return this.z;
     }
 }
+
 */
